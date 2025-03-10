@@ -1,0 +1,2 @@
+# StudyMagic
+Magic Project
